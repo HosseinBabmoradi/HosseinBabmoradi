@@ -9,7 +9,7 @@ Im a software engineer, Im interested in learning and experiencing new things, a
 
 
 ## 🛠 Skills
- Asp.net core / Web APi / Entityframework / sql server / Dapper
+ Asp.Net Core / Web Api / Entityframework / Sql Server / Dapper
 
 
 ## 🔗 Links
